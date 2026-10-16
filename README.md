@@ -19,10 +19,10 @@ I'm a software engineer with 10+ years of industry experience and a PhD research
 |---|---|---|
 | 2026 | *Cybersecurity Risks in AI-Agent-Supported Supply-Chain Systems Across Multi-Cloud Environments: A Literature Review and Analytical Synthesis* | [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7542402) |
 | 2026 | *Diagnosing RAG Failures: A Taxonomy of Failure Modes in Retrieval-Augmented Generation* | [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7439478) |
-| 2026 | *Zero Trust, Anomaly-Based Detection, and Federated Learning as Complementary Layers of Distributed Defense: A Comparative Analysis* | Preprint |
-| 2026 | *Retrieval-augmented Generation and Supply Chain Resilience: A Conceptual Framework for Organizational Sensemaking* | Preprint |
-| 2025 | *Architecting AI-Cloud Solutions for Demand Forecasting in Supply Chains* | [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7275880) |
-| 2024 | *Performance Improvement of IaaS Type of Cloud Computing Using Virtualization Technique* | [arXiv:2410.00395](https://arxiv.org/abs/2410.00395) |
+| 2026 | *Zero Trust, Anomaly-based Detection, and Federated Learning as Complementary Layers of Distributed Defense: A Comparative Analysis* | [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7371578) |
+| 2026 | *Retrieval-augmented Generation and Supply Chain Resilience: A Conceptual Framework for Organizational Sensemaking* | [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7475418) |
+| 2026 | *Architecting AI-Cloud Solutions for Demand Forecasting in Supply Chains* | [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7275880) |
+| 2024 | *Performance Improvement of IaaS Type of Cloud Computing Using Virtualization Technique* | [arXiv:2410.00395](https://arxiv.org/abs/2410.00395) · [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7249859) |
 
 Full list on [Google Scholar](https://scholar.google.com/citations?user=a0nkU10AAAAJ&hl=en) and [ResearchGate](https://www.researchgate.net/profile/Dawit-Admassu).
 
