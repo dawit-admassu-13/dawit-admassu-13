@@ -48,8 +48,6 @@ Full list on [Google Scholar](https://scholar.google.com/citations?user=a0nkU10A
 
 - **Ph.D., Information Technology** — University of the Cumberlands *(in progress)*
 - **M.S., Computer Science** — Maharishi International University
-- **B.S., Electrical Engineering** — Arba Minch University
 
 ## 🔗 Connect
 
-[Google Scholar](https://scholar.google.com/citations?user=a0nkU10AAAAJ&hl=en) · [ResearchGate](https://www.researchgate.net/profile/Dawit-Admassu) · [arXiv](https://arxiv.org/abs/2410.00395) · [X](https://x.com/DawitZAdmassu)
