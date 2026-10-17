@@ -24,7 +24,7 @@ I'm a software engineer with 10+ years of industry experience and a PhD research
 | 2026 | *Architecting AI-Cloud Solutions for Demand Forecasting in Supply Chains* | [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7275880) |
 | 2024 | *Performance Improvement of IaaS Type of Cloud Computing Using Virtualization Technique* | [arXiv:2410.00395](https://arxiv.org/abs/2410.00395) · [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7249859) |
 
-Full list on [Google Scholar](https://scholar.google.com/citations?user=a0nkU10AAAAJ&hl=en) and [ResearchGate](https://www.researchgate.net/profile/Dawit-Admassu).
+Full list on [Google Scholar] and [ResearchGate]
 
 ## 💼 Engineering Experience
 
