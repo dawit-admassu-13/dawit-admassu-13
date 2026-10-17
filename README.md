@@ -28,12 +28,6 @@ Full list on [Google Scholar] and [ResearchGate]
 
 ## 💼 Engineering Experience
 
-**Telecom infrastructure → network software → enterprise cloud systems**
-
-- **Cognizant Technology Solutions** — Senior Software Engineer: Java/Spring Boot microservices, Kafka, Azure, Camunda BPMN workflow automation for financial services, Java 8→17 and Spring Boot 2.4→3.1 platform upgrades, Go CLI deployment tooling
-- **ITS Technology and Trading** — Senior Software Engineer: network monitoring dashboards, REST APIs and microservices for network devices, network automation (Python, Ansible, Terraform, Jenkins)
-- **Ericsson** — Deployment Supervisor: network management systems, Kubernetes/Docker deployment, JVM performance tuning, microwave node integration
-- **Huawei** — Site Engineer: 2G/3G BTS commissioning, wireless/microwave networks
 
 ## 🛠️ Tech Stack
 
